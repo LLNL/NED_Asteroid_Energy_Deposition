@@ -23,7 +23,7 @@ The inputs are:
 | cosang   | cosine of angle of incidence  |
 | Flx      | fluence in kt/m^2  |
 | Tsrc     | length of source in ns |
-| Porosity | potosity in range (0.0, 1.0)|
+| Porosity | porosity in range (0.0, 1.0)|
 
 The output is the energy density in Perg/cm^3
 
@@ -56,7 +56,7 @@ For the 2D tables density varies most rapidly in the table
 
 The Quartz EOS is also available at (https://github.com/isale-code/M-ANEOS). The quartz input file is in the M-ANEOS/input directory. 
 
-The Forsterite EOS us available at (https://github.com/ststewart/aneos-forsterite-2019). The Sesame text files are included.
+The Forsterite EOS is available at (https://github.com/ststewart/aneos-forsterite-2019). The Sesame text files are included.
 
 Units:
 - density, g/cm^3 = Mg/m^3
